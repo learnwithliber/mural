@@ -17,9 +17,9 @@ Requires Android 10 or newer.
 
 ## Get the APK without a computer (GitHub)
 
-1. Create a new GitHub repository and upload this whole folder to it.
-2. GitHub builds the app automatically (Actions tab, "Build APK", about 5 minutes).
-3. Open the finished run, download **Mural-apk**, unzip it, and install `app-release.apk` on your phone. Allow "Install unknown apps" when asked.
+1. Push this folder to a GitHub repository.
+2. GitHub builds the app automatically on every push (about 5 minutes).
+3. Open the repo's **Releases**, download **Mural.apk** from the latest release, and open it on your phone. Allow "Install unknown apps" when asked.
 
 ## Build in Android Studio
 
